@@ -3,7 +3,7 @@ O **Desafio Codelândia** foi uma série de desafios voltados para desenvolvedor
 
 Me desafiei a desenvolver os projetos da comunidade, com o objetivo de aprimorar minhas habilidades em HTML, CSS e Javascript.
 
-Para visualizar o projeto, **clique aqui**.
+Para visualizar o projeto, [**clique aqui**](https://blog-three-rho-86.vercel.app/).
 ##
 
 ### 💻  Versão Desktop:
